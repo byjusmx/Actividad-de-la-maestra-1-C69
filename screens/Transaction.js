@@ -5,7 +5,7 @@ export default class TransactionScreen extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.text}>Transaction Screen</Text>
+        <Text style={styles.text}>Pantalla de transacción</Text>
       </View>
     );
   }
